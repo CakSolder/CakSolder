@@ -1,5 +1,6 @@
 Hi ini adalah repo pertama saya, Saya adalah orang Malang
-https://media.tenor.com/_gfqfXAP08IAAAAM/polish-cow-cow.gif
+<img width="640" height="534" alt="polish-cow-cow" src="https://github.com/user-attachments/assets/6a9becfc-44b3-4a81-9266-02519fc8b9f0" />
+
 
 <!--
 **CakSolder/CakSolder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
