@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi ini adalah repo pertama saya nigga
 
 <!--
 **CakSolder/CakSolder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
